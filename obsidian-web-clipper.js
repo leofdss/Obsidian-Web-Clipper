@@ -8,7 +8,7 @@ javascript: Promise.all([import('https://unpkg.com/turndown@6.0.0?module'), impo
   const vault = "";
 
   /* Optional folder name such as "Clippings/" */
-  const folder = "02 - Reference/Clippings/";
+  const folder = "Reference/Clippings/";
 
   /* Optional tags  */
   let tags = "clippings";
